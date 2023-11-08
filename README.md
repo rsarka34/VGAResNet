@@ -3,6 +3,7 @@ VGAResNet: A Unified Visibility Graph Adjacency Matrix-Based Residual Network fo
 Abstract:
 Chronic obstructive pulmonary disease (COPD) is one of the most severe respiratory diseases and can be diagnosed by several clinical modalities such as spirometric measures, lung function tests, parametric response mapping, wheezing events of lung sounds (LSs), etc. Since LSs are related to the respiratory irregularities caused by pulmonary illnesses, examining them is more effective for identifying respiratory issues. In this letter, we propose a visibility graph (VG)-based adjacency matrix representation of LS in conjunction with a residual deep neural network (ResNet) for accurate detection of COPD, namely, the VGAResNet. The proposed framework comprises four stages: preprocessing, visibility graph creation, adjacency matrix (AdjM) generation, and lastly, classification of these AdjMs using the ResNet architecture. The proposed framework is extensively evaluated using the publicly available LS database and outperforms the existing noteworthy research works by achieving the highest performance rates of 95.13%, 96.33%, and 94.37% for accuracy, sensitivity, and specificity, respectively.
 
+Dataset link: https://data.mendeley.com/datasets/jwyy9np4gv/3
 Cite as:
 
 @ARTICLE{10288401,
