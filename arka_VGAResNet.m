@@ -2,30 +2,27 @@ clc;
 clear all;
 close all;
  %% Load the Data
-% % load feature.mat;
-% load copd_normal_labels.mat; load copd_normal_sigs.mat;
-% cat_labels=categorical(copd_normal_labels);
-% window=4000*5;
-%  for j=1:1:window
-%      vector(j)=j;
-%  end
-% %% feature pipeline
-% melspect=[];
-% tic
-% clc
-% for i=1:10780
-%     disp(['iteration==>' num2str(i)])
-%     sig=copd_normal(:,i);
-%     HVG = fast_NVG(sig,vector(1,:),'u',0); 
-%     HVG_adj_Matrix=full(HVG);
-%     im =HVG_adj_Matrix;% ind2rgb(im2uint8(rescale(HVG_adj_Matrix_normal)),jet);    
-%     im_r=imresize(im,[64 64]);
-%     feature(:,:,i)=im_r;
-% end
-% toc
-% adj_img=reshape(feature,[64,64,1,10780]);
-%% Run from Here
-load feature.mat;
+ load copd_normal_labels.mat; load copd_normal_sigs.mat;
+ cat_labels=categorical(copd_normal_labels);
+ window=4000*5;
+  for j=1:1:window
+      vector(j)=j;
+  end
+ %% feature pipeline
+ melspect=[];
+ tic
+ clc
+ for i=1:10780
+     disp(['iteration==>' num2str(i)])
+     sig=copd_normal(:,i);
+     HVG = fast_NVG(sig,vector(1,:),'u',0); 
+     HVG_adj_Matrix=full(HVG);
+     im =HVG_adj_Matrix;% ind2rgb(im2uint8(rescale(HVG_adj_Matrix_normal)),jet);    
+     im_r=imresize(im,[64 64]);
+     feature(:,:,i)=im_r;
+ end
+ toc
+adj_img=reshape(feature,[64,64,1,10780]);
 adj_img=reshape(feature,[64,64,1,10780]);
 load copd_normal_labels.mat;
 copd_normal_labels=categorical(copd_normal_labels);
