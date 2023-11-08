@@ -5,7 +5,7 @@ Chronic obstructive pulmonary disease (COPD) is one of the most severe respirato
 Dataset link: https://data.mendeley.com/datasets/jwyy9np4gv/3 
 # Cite as:
 @ARTICLE{10288401,\
-  author={Roy, Arka and Thakur, Arushi and Satija, Udit},\  
+  author={Roy, Arka and Thakur, Arushi and Satija, Udit},
   journal={IEEE Sensors Letters},\  
   title={VGAResNet: A Unified Visibility Graph Adjacency Matrix-Based Residual Network for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds},\  
   year={2023},\  
