@@ -11,11 +11,3 @@ Dataset link: https://data.mendeley.com/datasets/jwyy9np4gv/3
   year={2023},\
   publisher={IEEE}\
 }
-@inproceedings{roy23_interspeech,\
-  author={Arka Roy and Udit Satija},\
-  title={{AsthmaSCELNet: A Lightweight Supervised Contrastive Embedding Learning Framework for Asthma Classification Using Lung Sounds}},\
-  year=2023,\
-  booktitle={Proc. INTERSPEECH 2023},\
-  pages={5431--5435},\
-  doi={10.21437/Interspeech.2023-428}\
-}
