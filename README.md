@@ -12,8 +12,7 @@ Dataset link: https://data.mendeley.com/datasets/jwyy9np4gv/3
   volume={7},\  
   number={11},\  
   pages={1-4},\  
-  doi={10.1109/LSENS.2023.3326118}
-  }
+  doi={10.1109/LSENS.2023.3326118}}\
 @inproceedings{roy23_interspeech,\
   author={Arka Roy and Udit Satija},\
   title={{AsthmaSCELNet: A Lightweight Supervised Contrastive Embedding Learning Framework for Asthma Classification Using Lung Sounds}},\
