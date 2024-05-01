@@ -1,5 +1,6 @@
 # VGAResNet: A Unified Visibility Graph Adjacency Matrix-Based Residual Network for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds
 Authors: Arka Roy, Arushi Thakur, Udit Satija, Department of Electrical Engineering, Indian Institute of Technology Patna.
+
 ![block_diag_gadresnet](https://github.com/rsarka34/VGAResNet/assets/89518952/b677b573-7a0e-4082-9ca4-f674ac41cf3f)
 
 # Abstract:
