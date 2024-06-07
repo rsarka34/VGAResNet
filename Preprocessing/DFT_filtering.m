@@ -1,4 +1,4 @@
-function [xr]=msm_DFT_filtering_ecg(x,Fs)
+function [xr]=DFT_filtering(x,Fs)
 
 y=x-mean(x);
 
