@@ -15,7 +15,7 @@ for p=3:36
     size_of_ip = size(data);
     c=1;
     while 1
-    seg_s=n_data(c:c+fixed_win-1);
+    seg_s=data(c:c+fixed_win-1);
     bw_removed=DFT_filtering(seg_s,fs);
     bwr_s=bw_removed(1:length(seg_s));
     norm_s=bwr_s/max(abs(bwr_s));
