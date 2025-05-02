@@ -25,8 +25,9 @@ Chronic obstructive pulmonary disease (COPD) is one of the most severe respirato
 </p>
 
 # Performance
-
-
+<p align="center">
+<img width="476" alt="Screenshot 2025-05-02 at 5 38 12 PM" src="https://github.com/user-attachments/assets/e3271581-007f-4fdc-a8c8-4a845eb58c73" />
+</p>
 
 # Cite as:
 A. Roy, A. Thakur and U. Satija, "VGAResNet: A Unified Visibility Graph Adjacency Matrix-Based Residual Network for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds," in *IEEE Sensors Letters*, vol. 7, no. 11, pp. 1-4, Nov. 2023, Art no. 7006604, doi: 10.1109/LSENS.2023.3326118. 
