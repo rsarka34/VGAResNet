@@ -33,9 +33,9 @@ Chronic obstructive pulmonary disease (COPD) is one of the most severe respirato
 A. Roy, A. Thakur and U. Satija, "VGAResNet: A Unified Visibility Graph Adjacency Matrix-Based Residual Network for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds," in *IEEE Sensors Letters*, vol. 7, no. 11, pp. 1-4, Nov. 2023, Art no. 7006604, doi: 10.1109/LSENS.2023.3326118. 
 
 ```bibtex
-@article{roy2023vgaresnet,\
-  title={VGAResNet: A Unified Visibility Graph Adjacency Matrix based Residual Network for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds},\
-  author={Roy, Arka and Thakur, Arushi and Satija, Udit},\
-  journal={IEEE Sensors Letters},\
-  year={2023},\
+@article{roy2023vgaresnet,
+  title={VGAResNet: A Unified Visibility Graph Adjacency Matrix based Residual Network for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds},
+  author={Roy, Arka and Thakur, Arushi and Satija, Udit},
+  journal={IEEE Sensors Letters},
+  year={2023},
   publisher={IEEE}}
