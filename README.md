@@ -21,7 +21,7 @@ Chronic obstructive pulmonary disease (COPD) is one of the most severe respirato
 
 # Visualization of the Visibility Graphs 
 <p align="center">
-<img width="856" alt="Screenshot 2025-05-02 at 5 35 30 PM" src="https://github.com/user-attachments/assets/986b131e-9cdf-4522-bf61-52abe228601e" />
+<img width="1400" alt="Screenshot 2025-05-02 at 5 35 30 PM" src="https://github.com/user-attachments/assets/986b131e-9cdf-4522-bf61-52abe228601e" />
 </p>
 
 # Performance
